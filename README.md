@@ -18,10 +18,6 @@
 
 
 
-# ▶️ Hosting 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=felixkamau&show_icons=true&theme=dark"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixkamau&layout=compact"/>
