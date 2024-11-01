@@ -1,6 +1,3 @@
-Here's a modified version for your GitHub profile readme:
-
----
 
 # Hi there 👋 I'm Felix
 
