@@ -32,7 +32,7 @@ I’m passionate about the intersection of Web3, DeFi, and AI/ML, and I love exp
 
 ![Profile Views](https://komarev.com/ghpvc/?username=felixkamau&style=for-the-badge&color=brightgreen)
 
-![Felix's github contribution snake animation](https://github.com/felixkamau/felixkamau/blob/output/github-contribution-grid-snake.svg)
+(https://github.com/felixkamau/felixkamau/blob/output/github-contribution-grid-snake.svg)
 
 [![Felix's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=felixkamau&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
