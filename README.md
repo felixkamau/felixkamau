@@ -32,6 +32,5 @@ I'm passionate about building in the Web3, DeFi, and AI/ML spaces, exploring new
 
 ---
 
-You can replace the placeholders with your actual email, Instagram, and LinkedIn URLs. Let me know if you'd like to add more sections!
 
 
