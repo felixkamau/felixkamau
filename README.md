@@ -47,7 +47,7 @@ Focused on **React Native (Expo), Flutter, Web3, and Rust/Go-based backend syste
 ## 🚧 Current Focus
 - 🦀 Learning Rust deeply (systems programming, backend, blockchain)
 - 🐹 Learning Go for scalable backend systems & concurrency
-- 📱 Scaling mobile apps with Expo + Supabase
+- 📱 Building app with RN Expo, Flutter
 - 🌾 Smart agriculture IoT systems with ML
 
 ---
